@@ -1,0 +1,49 @@
+#!bin/bash
+
+
+#Logiciels to Install
+
+#Language
+
+#Javascript
+#JAVA
+#Python
+#PHP
+
+#FRAMEWORK
+
+#NPM
+#NODEJS
+#ANGULAR
+#VUE JS
+#Conda - SKLEARN,TORCH, TENSORFLOW, KERAS, NUMPY, PANDAS 
+# LARAVEL
+#DJANGO
+#FLUTTER
+
+
+# Tools
+
+#VSC
+#ANDROID STUDIO
+#IntellIJ
+
+# DB
+
+#ES
+#PSQL
+#MYSQL
+#MongoDB
+#KIBANA
+#LOGSTASH
+
+#lecteur
+
+#VLC
+#MEDIA PLAYER
+
+# OTHER
+
+#OLIVE
+#GIMP
+
